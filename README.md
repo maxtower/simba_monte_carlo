@@ -14,3 +14,6 @@ I took the data from the "Data_72_13" tab in the spreadsheet. The goal is to cre
 The current script finds the first portfolio with lower than 7 std deviation.
 
 
+To run, type python monte_simba.py
+
+You must have python installed. I have tested with version 2.7.1
